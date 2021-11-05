@@ -12,3 +12,8 @@ git commit -am "message"
 git push -u origin master
 
 --git clone "url"
+
+--GET THE LATEST VERSION
+git fetch origin
+git status
+git pull
