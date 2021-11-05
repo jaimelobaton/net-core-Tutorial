@@ -6,6 +6,9 @@ git commit -m "message"
 git push -u origin master
 
 --sync and push
+git status
 git add .
-git commit -m "message"
+git commit -am "message"
 git push -u origin master
+
+--git clone "url"
