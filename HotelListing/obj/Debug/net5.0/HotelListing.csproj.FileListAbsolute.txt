@@ -39,3 +39,43 @@ D:\MicroServices Course\Test Aplication\HotelListing\HotelListing\obj\Debug\net5
 D:\MicroServices Course\Test Aplication\HotelListing\HotelListing\obj\Debug\net5.0\HotelListing.pdb
 D:\MicroServices Course\Test Aplication\HotelListing\HotelListing\obj\Debug\net5.0\HotelListing.genruntimeconfig.cache
 D:\MicroServices Course\Test Aplication\HotelListing\HotelListing\obj\Debug\net5.0\HotelListing.csproj.AssemblyReference.cache
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\HotelListing.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\HotelListing.AssemblyInfoInputs.cache
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\HotelListing.AssemblyInfo.cs
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\HotelListing.csproj.CoreCompileInputs.cache
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\HotelListing.MvcApplicationPartsAssemblyInfo.cs
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\HotelListing.MvcApplicationPartsAssemblyInfo.cache
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\HotelListing.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\ref\HotelListing.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\HotelListing.pdb
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\appsettings.Development.json
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\appsettings.json
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\HotelListing.exe
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\HotelListing.deps.json
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\HotelListing.runtimeconfig.json
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\HotelListing.runtimeconfig.dev.json
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\HotelListing.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\ref\HotelListing.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\HotelListing.pdb
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Serilog.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Serilog.AspNetCore.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Serilog.Sinks.File.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\staticwebassets\HotelListing.StaticWebAssets.Manifest.cache
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\staticwebassets\HotelListing.StaticWebAssets.xml
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\scopedcss\bundle\HotelListing.styles.css
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\HotelListing.RazorTargetAssemblyInfo.cache
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\HotelListing.csproj.CopyComplete
+F:\.NET Core\net-core-Tutorial\HotelListing\obj\Debug\net5.0\HotelListing.genruntimeconfig.cache
