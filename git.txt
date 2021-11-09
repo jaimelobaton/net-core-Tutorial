@@ -17,3 +17,6 @@ git push -u origin master
 git fetch origin
 git status
 git pull
+
+chapter tutorial
+1. Implement Data Classes and Entity Framework
